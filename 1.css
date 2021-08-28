@@ -1,0 +1,43 @@
+body{
+    background-image: url(55.png);  
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+    
+    
+    
+}
+body {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.6;
+    z-index: -1;
+  }
+ 
+
+  .main-wrapper-first {
+    width: 68.75%;
+    margin: 0 auto;
+    margin-top: 6rem;
+    
+  }
+  
+    
+
+.ff{
+ 
+    background-repeat: no-repeat;
+    background-image: url(55.png); 
+    background-size: cover;
+    position:relative; 
+  
+
+   
+}
